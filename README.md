@@ -1,2 +1,2 @@
 # JavaScript1
-Practiccas1
+Practica Prompt
